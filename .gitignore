@@ -1,0 +1,7 @@
+target/
+.idea/codeStyles/
+.idea/inspectionProfiles/
+.idea/workspace.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
